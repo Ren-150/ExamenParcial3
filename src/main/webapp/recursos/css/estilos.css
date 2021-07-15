@@ -1,0 +1,37 @@
+@charset "ISO-8859-1";
+
+.small{
+	max-width: 400px;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.temaverde{
+    background-color: greenyellow;
+}
+
+
+.colorheader{
+    background-color: rgb(85, 84, 84);
+}
+
+.titulos{
+    font-size: 25px;
+}
+
+.tamaño_res{
+    font-size: 30px;
+}
+
+.formatolabel{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+
+.marbutton{
+    margin-top: 10px;
+}

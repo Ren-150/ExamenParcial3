@@ -1,0 +1,6 @@
+
+<label>Categoría</label>
+<select id="categ" class="form-control">
+
+</select>
+
